@@ -1,24 +1,9 @@
 {
-  "name": "expressdemo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/qibo-cn/expressDemo.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/qibo-cn/expressDemo/issues"
-  },
-  "homepage": "https://github.com/qibo-cn/expressDemo#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "fs": "0.0.1-security",
-    "https": "^1.0.0"
-  }
+    "name": "expressdemo",
+    "description": "My First Express App",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "3.x",
+        "path": "^0.12.7"
+    }
 }
