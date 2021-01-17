@@ -3,7 +3,6 @@
     "description": "My First Express App",
     "version": "0.0.1",
     "dependencies": {
-        "express": "3.x",
-        "path": "^0.12.7"
+        "express": "4.8.0"
     }
 }
